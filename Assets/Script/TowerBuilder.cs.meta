@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1481910844adf44babfe9656b05731c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blockPrefab: {fileID: 4535612173189567758, guid: 9a1e895af9bb1ab4db3afd15d2ce0997, type: 3}
+  - replayButton: {fileID: 5176904620224505308, guid: 8ff631c1992dcd0499b36284d92ca412, type: 3}
+  - scoreText: {fileID: 494604660169832127, guid: bf5efa9487ffebc4b86a8bb3ffb7f672, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
